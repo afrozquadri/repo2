@@ -1,0 +1,7 @@
+---
+task: 
+ -name: 
+  win_shell:
+          name: web-server
+          state: present
+
